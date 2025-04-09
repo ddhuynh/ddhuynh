@@ -12,9 +12,7 @@ I've worked on multiple projects ranging from full-stack web development to Sale
 
 Ok, that's all for now. Bye!
 
-![](bye,gif)
-
-
+![bye](./bye.gif)
 
 <!--
 **ddhuynh/ddhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
