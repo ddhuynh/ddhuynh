@@ -12,7 +12,7 @@ I've worked on multiple projects ranging from full-stack web development to Sale
 
 Ok, that's all for now. Bye!
 
-![bye](bye,gif)
+![](bye,gif)
 
 
 
